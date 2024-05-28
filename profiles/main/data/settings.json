@@ -1,0 +1,119 @@
+{
+  "editor.minimap.enabled": false,
+  "telemetry.telemetryLevel": "off",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "editor.fontLigatures": true,
+  "workbench.sideBar.location": "right",
+  "console-ninja.featureSet": "Community",
+  "files.associations": {
+    ".env_*": "dotenv",
+    ".env*": "dotenv"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [],
+    "[*Light*]": {
+      "textMateRules": [
+        {
+          "scope": "ref.matchtext",
+          "settings": {
+            "foreground": "#000"
+          }
+        }
+      ]
+    },
+    "[*Dark*]": {
+      "textMateRules": [
+        {
+          "scope": "ref.matchtext",
+          "settings": {
+            "foreground": "#fff"
+          }
+        }
+      ]
+    }
+  },
+  "dotenv.enableAutocloaking": false,
+  "workbench.colorTheme": "Night Wolf (dark blue)",
+  "editor.fontFamily": "OperatorMono-XLight, Menlo, Monaco, 'Courier New', monospace",
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "terminal.integrated.env.osx": {},
+  "workbench.iconTheme": "vs-nomo-dark",
+  "parameterHints.enabled": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.linkedEditing": true,
+  "javascript.preferences.useAliasesForRenames": false,
+  "projectManager.git.baseFolders": [
+    "~/Projects/repos",
+    "~/Projects/repos/merck/sandbox"
+  ],
+  "GitLive.Issue tracker integration": "Disabled",
+  "githd.blameView.enabled": false,
+  "terminal.integrated.fontSize": 14,
+  "errorLens.delayMode": "debounce",
+  "errorLens.onSave": true,
+  "editor.lineHeight": 1.6,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.indentation": false,
+  "editor.formatOnPaste": false,
+  "workbench.startupEditor": "none",
+  "workbench.preferredHighContrastColorTheme": "Default Dark Modern",
+  "workbench.preferredLightColorTheme": "Default Dark Modern",
+  "workbench.preferredHighContrastLightColorTheme": "Default Dark Modern",
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f"
+  },
+  "javascript.referencesCodeLens.enabled": true,
+  "javascript.referencesCodeLens.showOnAllFunctions": true,
+  "javascript.suggest.completeFunctionCalls": true,
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.implementationsCodeLens.enabled": true,
+  "typescript.referencesCodeLens.enabled": true,
+  "typescript.referencesCodeLens.showOnAllFunctions": true,
+  "typescript.suggest.completeFunctionCalls": true,
+  "sonarlint.output.showVerboseLogs": true,
+  "task.verboseLogging": true,
+  "git-autoconfig.configList": [
+    {
+      "user.email": "yurii.fotul@merck.com",
+      "user.name": "Yurii Fotul"
+    },
+    {
+      "user.email": "fotul.yurii@gmail.com",
+      "user.name": "Y.Y.F."
+    }
+  ],
+  "sonarlint.connectedMode.connections.sonarqube": [],
+  "git.autofetch": true,
+  "GitLive.Special branches": "main|master|trunk|dev|develop|qa|test|release[-/].*",
+  "robotcode.debug.defaultConfiguration": {},
+  "githubPullRequests.pullBranch": "never",
+  "githubPullRequests.fileListLayout": "tree",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "github.copilot.enable": {
+    "plaintext": "true",
+    "markdown": "true"
+  },
+  "[robotframework]": {
+    "editor.defaultFormatter": "robocorp.robotframework-lsp"
+  },
+  "[dockerfile]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
+  "editor.multiCursorModifier": "alt",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "terminalCapture.useClipboard": false,
+  "terminal.external.osxExec": "iTerm.app",
+  "github.copilot.editor.enableAutoCompletions": true
+}
