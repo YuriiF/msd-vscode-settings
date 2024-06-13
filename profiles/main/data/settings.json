@@ -33,10 +33,10 @@
     }
   },
   "dotenv.enableAutocloaking": false,
-  "workbench.colorTheme": "Night Wolf (dark blue)",
-  "editor.fontFamily": "OperatorMono-XLight, Menlo, Monaco, 'Courier New', monospace",
+  "workbench.colorTheme": "Night Wolf (dark blue) (No Italics)",
+  "editor.fontFamily": "OperatorMono-Light, Menlo, Monaco, 'Courier New', monospace",
   "editor.tabSize": 2,
-  "editor.fontSize": 14,
+  "editor.fontSize": 14.8,
   "terminal.integrated.env.osx": {},
   "workbench.iconTheme": "vs-nomo-dark",
   "parameterHints.enabled": false,
@@ -57,7 +57,7 @@
   "terminal.integrated.fontSize": 14,
   "errorLens.delayMode": "debounce",
   "errorLens.onSave": true,
-  "editor.lineHeight": 1.6,
+  "editor.lineHeight": 1.7,
   "editor.guides.bracketPairs": "active",
   "editor.guides.indentation": false,
   "editor.formatOnPaste": false,
@@ -89,7 +89,12 @@
       "user.name": "Y.Y.F."
     }
   ],
-  "sonarlint.connectedMode.connections.sonarqube": [],
+  "sonarlint.connectedMode.connections.sonarqube": [
+    {
+      "serverUrl": "https://sonar.merck.com",
+      "connectionId": "https-sonar-merck-com"
+    }
+  ],
   "git.autofetch": true,
   "GitLive.Special branches": "main|master|trunk|dev|develop|qa|test|release[-/].*",
   "robotcode.debug.defaultConfiguration": {},
@@ -115,5 +120,13 @@
   "git.openRepositoryInParentFolders": "never",
   "terminalCapture.useClipboard": false,
   "terminal.external.osxExec": "iTerm.app",
-  "github.copilot.editor.enableAutoCompletions": true
+  "github.copilot.editor.enableAutoCompletions": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.accessibilitySupport": "off",
+  "metaGo.decoration.fontSize": 16,
+  "RainbowBrackets.depreciation-notice": false,
+  "sonarlint.pathToNodeExecutable": "/Users/fotul/Library/Application Support/fnm/node-versions/v20.11.1/installation/bin/node",
+  "sonarlint.focusOnNewCode": false
 }

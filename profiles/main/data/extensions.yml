@@ -7,12 +7,14 @@ disabled:
     uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
   - id: hilleer.yaml-plus-json
     uuid: a5c960d9-3d35-4b3f-9d53-bafe782ddf1a
+  - id: Infracost.infracost
+    uuid: 7301455a-55ed-485e-ae1a-af918f430bc4
   - id: IronGeek.vscode-env
     uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
-  - id: liamhammett.inline-parameters
-    uuid: ff698641-127d-4b67-a8c2-b59179576b9d
   - id: juanallo.vscode-dependency-cruiser
     uuid: c7f1d885-86b1-4801-9a7d-87aa4156b4cf
+  - id: liamhammett.inline-parameters
+    uuid: ff698641-127d-4b67-a8c2-b59179576b9d
   - id: ms-vscode.azure-repos
     uuid: 25cfa506-1433-4595-a73f-61666807126d
   - id: quicktype.quicktype
@@ -21,10 +23,10 @@ disabled:
     uuid: a7fa941e-bcda-486f-8141-8483a6286177
   - id: spmeesseman.vscode-taskexplorer
     uuid: afc7b7f6-486c-4560-94cb-6130ea88cdb8
-  - id: WallabyJs.console-ninja
-    uuid: 6a994cdf-21a5-4e80-b0a5-601acdad9bf9
   - id: WallabyJs.quokka-vscode
     uuid: aae0701b-111f-49c1-9000-abd37a442f28
+  - id: WallabyJs.console-ninja
+    uuid: 6a994cdf-21a5-4e80-b0a5-601acdad9bf9
   - id: xyz.local-history
     uuid: 25adc849-5c3a-4dca-95b3-55a6461077ee
 enabled:
@@ -90,6 +92,8 @@ enabled:
     uuid: fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd
   - id: GitHub.vscode-pull-request-github
     uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
+  - id: google.wireit
+    uuid: deb70ac0-40ad-4348-afd7-67f64daf4ef5
   - id: Gruntfuggly.todo-tree
     uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
   - id: hashicorp.terraform
@@ -106,10 +110,10 @@ enabled:
     uuid: dda49fd5-1f3b-4d25-bf61-4fc41905ede5
   - id: IBM.output-colorizer
     uuid: 113b22c8-8125-42ec-8c6b-80c3f5d5fa5f
-  - id: Infracost.infracost
-    uuid: 7301455a-55ed-485e-ae1a-af918f430bc4
   - id: johnpapa.vscode-peacock
     uuid: 5a7017bf-c571-4d77-b902-6e56b16f539a
+  - id: jrieken.references-plusplus
+    uuid: bfc505f0-d952-4542-a7cf-d72ac3a45c4c
   - id: Luis.console-log
     uuid: 61979763-d209-47e7-adf5-b0e3df140b2b
   - id: LuisOlmedo.env-viewer
@@ -170,6 +174,8 @@ enabled:
     uuid: 7632e3e0-7d47-4be3-a5e3-a5873293f815
   - id: qcz.text-power-tools
     uuid: f05d5b1a-dd2d-4d27-bfd6-e3cff922bd7e
+  - id: reda-salmi.night-owl-x-one-dark
+    uuid: 843c7605-8b34-4101-bf5f-23e5de0f5dc2
   - id: redhat.vscode-xml
     uuid: 6703768d-d42f-474e-9f6e-5f288d53f6e8
   - id: redhat.vscode-yaml
@@ -184,6 +190,8 @@ enabled:
     uuid: 79afa437-682e-4fa2-a4fd-87844832a1dc
   - id: sburg.vscode-javascript-booster
     uuid: 3a1fe682-5a7a-4953-9ba9-77529a973d04
+  - id: sdras.night-owl
+    uuid: e58f546c-babc-455f-a265-ba40dbd140d4
   - id: seatonjiang.gitmoji-vscode
     uuid: d7b0c43a-5aaa-4181-9196-293551f7b37a
   - id: shd101wyy.markdown-preview-enhanced
@@ -196,6 +204,8 @@ enabled:
     uuid: b24a13f5-4e50-4d9a-ab0a-87f47d9fdfcb
   - id: stylelint.vscode-stylelint
     uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
+  - id: tal7aouy.rainbow-bracket
+    uuid: 90cf5b00-d411-42a6-a3fb-9c367e93e251
   - id: tamasfe.even-better-toml
     uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
   - id: TeamHub.teamhub
