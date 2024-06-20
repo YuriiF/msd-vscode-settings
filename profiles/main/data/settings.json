@@ -36,7 +36,7 @@
   "workbench.colorTheme": "Night Wolf (dark blue) (No Italics)",
   "editor.fontFamily": "OperatorMono-Light, Menlo, Monaco, 'Courier New', monospace",
   "editor.tabSize": 2,
-  "editor.fontSize": 14.8,
+  "editor.fontSize": 14,
   "terminal.integrated.env.osx": {},
   "workbench.iconTheme": "vs-nomo-dark",
   "parameterHints.enabled": false,

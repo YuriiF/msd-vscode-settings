@@ -11,10 +11,10 @@ disabled:
     uuid: 7301455a-55ed-485e-ae1a-af918f430bc4
   - id: IronGeek.vscode-env
     uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
-  - id: juanallo.vscode-dependency-cruiser
-    uuid: c7f1d885-86b1-4801-9a7d-87aa4156b4cf
   - id: liamhammett.inline-parameters
     uuid: ff698641-127d-4b67-a8c2-b59179576b9d
+  - id: juanallo.vscode-dependency-cruiser
+    uuid: c7f1d885-86b1-4801-9a7d-87aa4156b4cf
   - id: ms-vscode.azure-repos
     uuid: 25cfa506-1433-4595-a73f-61666807126d
   - id: quicktype.quicktype
@@ -23,12 +23,10 @@ disabled:
     uuid: a7fa941e-bcda-486f-8141-8483a6286177
   - id: spmeesseman.vscode-taskexplorer
     uuid: afc7b7f6-486c-4560-94cb-6130ea88cdb8
-  - id: WallabyJs.quokka-vscode
-    uuid: aae0701b-111f-49c1-9000-abd37a442f28
-  - id: WallabyJs.console-ninja
-    uuid: 6a994cdf-21a5-4e80-b0a5-601acdad9bf9
   - id: xyz.local-history
     uuid: 25adc849-5c3a-4dca-95b3-55a6461077ee
+  - id: WallabyJs.quokka-vscode
+    uuid: aae0701b-111f-49c1-9000-abd37a442f28
 enabled:
   - id: alefragnani.project-manager
     uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
@@ -226,6 +224,8 @@ enabled:
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: vsls-contrib.gistfs
     uuid: 0cfb9d1d-3e59-4c36-a597-157b54e4442b
+  - id: WallabyJs.console-ninja
+    uuid: 6a994cdf-21a5-4e80-b0a5-601acdad9bf9
   - id: yatki.vscode-surround
     uuid: b476195a-5d3b-4a10-af0b-3d94f9c9f924
   - id: YoavBls.pretty-ts-errors
