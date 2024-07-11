@@ -1,6 +1,8 @@
 disabled:
   - id: DavidAnson.vscode-markdownlint
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
+  - id: firsttris.vscode-jest-runner
+    uuid: 13cd6cd6-3da6-4eb8-8d81-b47e6e710e59
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: github.vscode-github-actions
@@ -11,10 +13,10 @@ disabled:
     uuid: 7301455a-55ed-485e-ae1a-af918f430bc4
   - id: IronGeek.vscode-env
     uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
-  - id: liamhammett.inline-parameters
-    uuid: ff698641-127d-4b67-a8c2-b59179576b9d
   - id: juanallo.vscode-dependency-cruiser
     uuid: c7f1d885-86b1-4801-9a7d-87aa4156b4cf
+  - id: liamhammett.inline-parameters
+    uuid: ff698641-127d-4b67-a8c2-b59179576b9d
   - id: ms-vscode.azure-repos
     uuid: 25cfa506-1433-4595-a73f-61666807126d
   - id: quicktype.quicktype
@@ -23,10 +25,10 @@ disabled:
     uuid: a7fa941e-bcda-486f-8141-8483a6286177
   - id: spmeesseman.vscode-taskexplorer
     uuid: afc7b7f6-486c-4560-94cb-6130ea88cdb8
-  - id: xyz.local-history
-    uuid: 25adc849-5c3a-4dca-95b3-55a6461077ee
   - id: WallabyJs.quokka-vscode
     uuid: aae0701b-111f-49c1-9000-abd37a442f28
+  - id: xyz.local-history
+    uuid: 25adc849-5c3a-4dca-95b3-55a6461077ee
 enabled:
   - id: alefragnani.project-manager
     uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
@@ -70,10 +72,6 @@ enabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: fabiospampinato.vscode-open-in-github
     uuid: d9ad4cf9-a53a-4237-8962-a9c43c2e6fd2
-  - id: firsttris.vscode-jest-runner
-    uuid: 13cd6cd6-3da6-4eb8-8d81-b47e6e710e59
-  - id: folke.vscode-monorepo-workspace
-    uuid: e64b3b10-751f-4dbe-8bb1-7c676fbeacf5
   - id: formulahendry.docker-explorer
     uuid: 96c69be9-5b09-4a18-8c82-4d30ab145017
   - id: foxundermoon.shell-format
@@ -162,6 +160,8 @@ enabled:
     uuid: 0bfc03aa-70fb-4740-82a7-ca1043260d88
   - id: nrwl.angular-console
     uuid: d10af6bf-270f-4cf0-b94b-1bea4bda1e2e
+  - id: Orta.vscode-jest
+    uuid: 7997a8ae-1fae-4022-b834-12f6318aeffd
   - id: pflannery.vscode-versionlens
     uuid: 07fc4a0a-11fc-4121-ba9a-f0d534c729d8
   - id: phil294.git-log--graph
