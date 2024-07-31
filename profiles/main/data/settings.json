@@ -10,7 +10,22 @@
     ".env*": "dotenv"
   },
   "editor.tokenColorCustomizations": {
-    "textMateRules": [],
+    "[Tokyo Night]": {
+      "textMateRules": [
+        {
+          "scope": ["entity.name.tag"],
+          "settings": { "foreground": "#ff6188" }
+        },
+        {
+          "scope": [
+            "entity.name.tag.js.jsx support.class.component.js.jsx",
+            "entity.name.tag support.class.component",
+            "source.vue support.class.component"
+          ],
+          "settings": { "foreground": "#00fab5" }
+        }
+      ]
+    },
     "[*Light*]": {
       "textMateRules": [
         {
@@ -33,7 +48,7 @@
     }
   },
   "dotenv.enableAutocloaking": false,
-  "workbench.colorTheme": "Night Wolf (dark blue)",
+  "workbench.colorTheme": "Tokyo Night",
   "editor.fontFamily": "OperatorMono-Light, Menlo, Monaco, 'Courier New', monospace",
   "editor.tabSize": 2,
   "editor.fontSize": 14,
@@ -128,5 +143,6 @@
   "metaGo.decoration.fontSize": 16,
   "RainbowBrackets.depreciation-notice": false,
   "sonarlint.pathToNodeExecutable": "/Users/fotul/Library/Application Support/fnm/node-versions/v20.11.1/installation/bin/node",
-  "sonarlint.focusOnNewCode": false
+  "sonarlint.focusOnNewCode": false,
+  "git.suggestSmartCommit": false
 }

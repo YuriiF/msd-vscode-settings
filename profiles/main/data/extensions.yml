@@ -7,6 +7,10 @@ disabled:
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: github.vscode-github-actions
     uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
+  - id: hashicorp.terraform
+    uuid: 4a23294b-fd16-4c51-9759-da9936474cf8
+  - id: hbenl.vscode-test-explorer
+    uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
   - id: hilleer.yaml-plus-json
     uuid: a5c960d9-3d35-4b3f-9d53-bafe782ddf1a
   - id: Infracost.infracost
@@ -68,6 +72,8 @@ enabled:
     uuid: 19804510-b475-4dae-b0f7-6ca08fd1af0c
   - id: EditorConfig.EditorConfig
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: enkia.tokyo-night
+    uuid: 1cac7443-911e-48b9-8341-49f3880c288a
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: fabiospampinato.vscode-open-in-github
@@ -92,10 +98,6 @@ enabled:
     uuid: deb70ac0-40ad-4348-afd7-67f64daf4ef5
   - id: Gruntfuggly.todo-tree
     uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
-  - id: hashicorp.terraform
-    uuid: 4a23294b-fd16-4c51-9759-da9936474cf8
-  - id: hbenl.vscode-test-explorer
-    uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
   - id: hediet.vscode-drawio
     uuid: ea6a6046-2132-421f-a984-664909fcf0b8
   - id: herrmannplatz.npm-dependency-links
