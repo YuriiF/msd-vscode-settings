@@ -1,16 +1,16 @@
 disabled:
-  - id: bierner.markdown-checkbox
-    uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
-  - id: bierner.github-markdown-preview
-    uuid: 9f5a5fc9-8b23-4484-85c4-1438b82d8634
-  - id: bierner.markdown-preview-github-styles
-    uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
   - id: bierner.markdown-emoji
     uuid: f595c9c1-28b5-415e-a55f-2deb4a8c3abd
-  - id: bierner.markdown-mermaid
-    uuid: f8d0ffc4-66bb-4a9c-8149-ef8f043691a1
   - id: bierner.markdown-footnotes
     uuid: 8c379296-feca-4544-853d-f085a1fc638f
+  - id: bierner.github-markdown-preview
+    uuid: 9f5a5fc9-8b23-4484-85c4-1438b82d8634
+  - id: bierner.markdown-mermaid
+    uuid: f8d0ffc4-66bb-4a9c-8149-ef8f043691a1
+  - id: bierner.markdown-preview-github-styles
+    uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
+  - id: bierner.markdown-checkbox
+    uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
   - id: bierner.markdown-yaml-preamble
     uuid: b872af63-f9e1-438e-9462-0315abe9d3aa
   - id: DavidAnson.vscode-markdownlint
@@ -21,36 +21,36 @@ disabled:
     uuid: 32f5152f-4baf-4dbb-aa15-23eea3187600
   - id: fabiospampinato.vscode-open-in-github
     uuid: d9ad4cf9-a53a-4237-8962-a9c43c2e6fd2
-  - id: formulahendry.code-runner
-    uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: firsttris.vscode-jest-runner
     uuid: 13cd6cd6-3da6-4eb8-8d81-b47e6e710e59
+  - id: formulahendry.code-runner
+    uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: github.vscode-github-actions
     uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
   - id: GitHub.vscode-pull-request-github
     uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
   - id: google.wireit
     uuid: deb70ac0-40ad-4348-afd7-67f64daf4ef5
-  - id: hashicorp.terraform
-    uuid: 4a23294b-fd16-4c51-9759-da9936474cf8
   - id: hbenl.vscode-test-explorer
     uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
   - id: hediet.vscode-drawio
     uuid: ea6a6046-2132-421f-a984-664909fcf0b8
+  - id: hashicorp.terraform
+    uuid: 4a23294b-fd16-4c51-9759-da9936474cf8
   - id: hilleer.yaml-plus-json
     uuid: a5c960d9-3d35-4b3f-9d53-bafe782ddf1a
   - id: huizhou.githd
     uuid: e4e21a5c-a882-4d7d-b8d8-cfe05b1436c6
   - id: Infracost.infracost
     uuid: 7301455a-55ed-485e-ae1a-af918f430bc4
-  - id: jrieken.references-plusplus
-    uuid: bfc505f0-d952-4542-a7cf-d72ac3a45c4c
-  - id: liamhammett.inline-parameters
-    uuid: ff698641-127d-4b67-a8c2-b59179576b9d
   - id: IronGeek.vscode-env
     uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
+  - id: jrieken.references-plusplus
+    uuid: bfc505f0-d952-4542-a7cf-d72ac3a45c4c
   - id: juanallo.vscode-dependency-cruiser
     uuid: c7f1d885-86b1-4801-9a7d-87aa4156b4cf
+  - id: liamhammett.inline-parameters
+    uuid: ff698641-127d-4b67-a8c2-b59179576b9d
   - id: LuisOlmedo.env-viewer
     uuid: f6d54853-0e08-4160-b8e6-d04f82824db4
   - id: MaoSantaella.night-wolf
@@ -77,10 +77,10 @@ disabled:
     uuid: 72964da7-16bd-47a1-95dd-515ba3290914
   - id: pomber.git-file-history
     uuid: 7632e3e0-7d47-4be3-a5e3-a5873293f815
-  - id: reda-salmi.night-owl-x-one-dark
-    uuid: 843c7605-8b34-4101-bf5f-23e5de0f5dc2
   - id: quicktype.quicktype
     uuid: e05d98bf-3735-4c1e-9fae-86ef0a52e19f
+  - id: reda-salmi.night-owl-x-one-dark
+    uuid: 843c7605-8b34-4101-bf5f-23e5de0f5dc2
   - id: ryu1kn.partial-diff
     uuid: 79afa437-682e-4fa2-a4fd-87844832a1dc
   - id: sdras.night-owl
@@ -99,10 +99,10 @@ disabled:
     uuid: 9a3158cf-aa30-4955-bd90-adb118650ff3
   - id: vsls-contrib.gistfs
     uuid: 0cfb9d1d-3e59-4c36-a597-157b54e4442b
-  - id: xyz.local-history
-    uuid: 25adc849-5c3a-4dca-95b3-55a6461077ee
   - id: WallabyJs.quokka-vscode
     uuid: aae0701b-111f-49c1-9000-abd37a442f28
+  - id: xyz.local-history
+    uuid: 25adc849-5c3a-4dca-95b3-55a6461077ee
 enabled:
   - id: alefragnani.project-manager
     uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
@@ -182,6 +182,8 @@ enabled:
     uuid: ff850146-c38e-4afe-8a34-705074ae16e2
   - id: nicoespeon.abracadabra
     uuid: 0bfc03aa-70fb-4740-82a7-ca1043260d88
+  - id: onlyutkarsh.git-config-user-profiles
+    uuid: 1c8db58a-80d3-4823-8fe6-4f2da41f8c56
   - id: pflannery.vscode-versionlens
     uuid: 07fc4a0a-11fc-4121-ba9a-f0d534c729d8
   - id: qcz.text-power-tools
