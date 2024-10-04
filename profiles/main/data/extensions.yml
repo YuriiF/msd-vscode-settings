@@ -1,18 +1,18 @@
 disabled:
+  - id: bierner.github-markdown-preview
+    uuid: 9f5a5fc9-8b23-4484-85c4-1438b82d8634
   - id: bierner.markdown-emoji
     uuid: f595c9c1-28b5-415e-a55f-2deb4a8c3abd
   - id: bierner.markdown-footnotes
     uuid: 8c379296-feca-4544-853d-f085a1fc638f
-  - id: bierner.github-markdown-preview
-    uuid: 9f5a5fc9-8b23-4484-85c4-1438b82d8634
   - id: bierner.markdown-mermaid
     uuid: f8d0ffc4-66bb-4a9c-8149-ef8f043691a1
   - id: bierner.markdown-preview-github-styles
     uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
-  - id: bierner.markdown-checkbox
-    uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
   - id: bierner.markdown-yaml-preamble
     uuid: b872af63-f9e1-438e-9462-0315abe9d3aa
+  - id: bierner.markdown-checkbox
+    uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
   - id: DavidAnson.vscode-markdownlint
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: DominicVonk.parameter-hints
@@ -27,34 +27,34 @@ disabled:
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: github.vscode-github-actions
     uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
-  - id: GitHub.vscode-pull-request-github
-    uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
   - id: google.wireit
     uuid: deb70ac0-40ad-4348-afd7-67f64daf4ef5
+  - id: GitHub.vscode-pull-request-github
+    uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
   - id: hbenl.vscode-test-explorer
     uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
-  - id: hediet.vscode-drawio
-    uuid: ea6a6046-2132-421f-a984-664909fcf0b8
   - id: hashicorp.terraform
     uuid: 4a23294b-fd16-4c51-9759-da9936474cf8
-  - id: hilleer.yaml-plus-json
-    uuid: a5c960d9-3d35-4b3f-9d53-bafe782ddf1a
+  - id: hediet.vscode-drawio
+    uuid: ea6a6046-2132-421f-a984-664909fcf0b8
   - id: huizhou.githd
     uuid: e4e21a5c-a882-4d7d-b8d8-cfe05b1436c6
   - id: Infracost.infracost
     uuid: 7301455a-55ed-485e-ae1a-af918f430bc4
-  - id: IronGeek.vscode-env
-    uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
-  - id: jrieken.references-plusplus
-    uuid: bfc505f0-d952-4542-a7cf-d72ac3a45c4c
+  - id: hilleer.yaml-plus-json
+    uuid: a5c960d9-3d35-4b3f-9d53-bafe782ddf1a
   - id: juanallo.vscode-dependency-cruiser
     uuid: c7f1d885-86b1-4801-9a7d-87aa4156b4cf
+  - id: jrieken.references-plusplus
+    uuid: bfc505f0-d952-4542-a7cf-d72ac3a45c4c
+  - id: IronGeek.vscode-env
+    uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
   - id: liamhammett.inline-parameters
     uuid: ff698641-127d-4b67-a8c2-b59179576b9d
-  - id: LuisOlmedo.env-viewer
-    uuid: f6d54853-0e08-4160-b8e6-d04f82824db4
   - id: MaoSantaella.night-wolf
     uuid: ce0fe469-040e-4daa-9a7a-63cc063a3e73
+  - id: LuisOlmedo.env-viewer
+    uuid: f6d54853-0e08-4160-b8e6-d04f82824db4
   - id: ms-python.black-formatter
     uuid: 859e640c-c157-47da-8699-9080b81c8371
   - id: ms-python.debugpy
@@ -63,12 +63,12 @@ disabled:
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-pylance
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
-  - id: ms-vscode.azure-repos
-    uuid: 25cfa506-1433-4595-a73f-61666807126d
-  - id: ms-vscode.test-adapter-converter
-    uuid: 47210ec2-0324-4cbb-9523-9dff02a5f9ec
   - id: nguyenngoclong.terminal-keeper
     uuid: a98b33fd-04b2-44fb-91b9-5148d015d07f
+  - id: ms-vscode.test-adapter-converter
+    uuid: 47210ec2-0324-4cbb-9523-9dff02a5f9ec
+  - id: ms-vscode.azure-repos
+    uuid: 25cfa506-1433-4595-a73f-61666807126d
   - id: nrwl.angular-console
     uuid: d10af6bf-270f-4cf0-b94b-1bea4bda1e2e
   - id: phil294.git-log--graph
@@ -97,10 +97,10 @@ disabled:
     uuid: 3afd2649-0952-47d8-a3a4-aedbb8c58173
   - id: UrosVujosevic.explorer-manager
     uuid: 9a3158cf-aa30-4955-bd90-adb118650ff3
-  - id: vsls-contrib.gistfs
-    uuid: 0cfb9d1d-3e59-4c36-a597-157b54e4442b
   - id: WallabyJs.quokka-vscode
     uuid: aae0701b-111f-49c1-9000-abd37a442f28
+  - id: vsls-contrib.gistfs
+    uuid: 0cfb9d1d-3e59-4c36-a597-157b54e4442b
   - id: xyz.local-history
     uuid: 25adc849-5c3a-4dca-95b3-55a6461077ee
 enabled:
